@@ -1,0 +1,7 @@
+#mid-panels {
+    position: absolute;
+    width: 100%;
+    display: flex;
+    margin-top: 160px;
+    justify-content: space-between;
+}

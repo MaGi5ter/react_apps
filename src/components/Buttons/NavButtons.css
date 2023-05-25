@@ -1,0 +1,13 @@
+.navbutton {
+    background-color: #333239;
+    margin: 10px;
+    width: 40px;
+    height: 40px;
+    border: 2px solid #478eec;
+    box-shadow: 3px 3px #304a6b;
+}
+
+.navbutton:hover {
+    background-color: #464353;
+    cursor: pointer;
+}
